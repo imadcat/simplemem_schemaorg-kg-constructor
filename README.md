@@ -261,9 +261,9 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{schemaorg_kg_constructor,
-  title = {Knowledge Graph Constructor with Schema.org},
-  author = {SimpleMem Contributors},
-  year = {2025},
+  title = {Automatic Knowledge Graph Constructor using LLM-based entity extraction and Schema.org type alignment.},
+  author = {Tom Young},
+  year = {2026},
   url = {https://github.com/imadcat/simplemem_schemaorg-kg-constructor}
 }
 ```
