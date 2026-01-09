@@ -10,7 +10,7 @@ import re
 import os
 
 from schema_loader import SchemaOrgLoader
-from schemaorg_memory_entry import SchemaOrgEntity, SchemaOrgRelation, KnowledgeGraphEntry
+from schemaorg_memory_entry import SchemaOrgEntity, SchemaOrgRelation
 from schemaorg_entity_extractor import SchemaOrgEntityExtractor
 
 
